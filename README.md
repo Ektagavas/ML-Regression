@@ -1,2 +1,2 @@
 # ML-Regression
-Regression Algorithms
+Regression Algorithms in Python from scratch
